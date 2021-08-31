@@ -11,7 +11,7 @@ def start_game():
     answer = random.randint(1,10)
     attempt_limit = 10
     attempts = 0
-    print(answer)
+    # for troubleshooting print(answer)
     name = input("What is your name? ")
     print("---------------------------------------------------------------------------------------------")
     print("Welcome to the number guessing game! {} Guess a number between 1 - 10  ".format(name))
