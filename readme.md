@@ -5,7 +5,7 @@ Scott Schlangen - V1 - 08/31/2021
 
 **Core Requirements**
 
-- [ ]  Display an intro/welcome message to the player.
+- [x]  Display an intro/welcome message to the player.
 - [ ]  Store a random number as the answer/solution.
 - [ ]  Continuously prompt the player for a guess.
 - [ ]  If the guess greater than the solution, display to the player "It's lower".
