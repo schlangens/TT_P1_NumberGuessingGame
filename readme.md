@@ -1,4 +1,4 @@
-Python Web Development Techdegree
+Python Techdegree
 Project 1 - Number Guessing Game
 Scott Schlangen - V1 - 08/31/2021
 
