@@ -14,7 +14,7 @@ Scott Schlangen - V1 - 08/31/2021
 - [x]  Let the player know the game is ending, or something that indicates the game is over.
 
 **Extra Features**
-- [ ] Proper error handling for if the user enters a wrong type
+- [X] Proper error handling for if the user enters a wrong type
 - [ ] Refactoring
 - [ ] High Scores and player points
 
