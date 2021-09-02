@@ -1,6 +1,6 @@
 Python Techdegree
 Project 1 - Number Guessing Game
-Scott Schlangen - V1 - 08/31/2021
+Scott Schlangen - V2 - 09/01/2021
 
 
 **Core Requirements**
